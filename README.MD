@@ -2,8 +2,6 @@
 # Tracking Amazon Air
 Amazon leases planes operated by Atlas Air for their logistics operations.  Below is data from a fleet of their B763 used to ferry products to warehouses domestically.  The data ( flights.json ) is in json format and contains the most recent 200ish flights from each plane in the fleet. For comparison, the data also contains data from a FedEx Fleet. 
 
-### Dependencies 
-python,node,puppeteer,beautifulsoup
 ### fields
  1. date: Date the flight was observered
  2. flight_number: flight number
